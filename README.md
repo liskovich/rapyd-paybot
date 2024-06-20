@@ -17,4 +17,4 @@ With Rapyd Paybot there is no more hustle! Integrate the bot into your existing 
 [Rapyd_Paybot_presentation.pdf](https://github.com/Devkeystuff/rapyd-paybot/files/10192180/Rapyd_Paybot_presentation.pdf)
 
 ### Authors (Dev community):
-**devkey#1604** and **Lisais83#9674**
+Ricards and Ronalds
